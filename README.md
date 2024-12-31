@@ -2,10 +2,12 @@
 
 ### s3.sh
 Enumerate S3 buckets based on a keyword (eg company name).
+
 Usage: ./s3.sh [keyword]
 
 ### s3har.sh
 Check all domains inside a HAR-file to see if there's any buckets with listing enabled.
+
 Usage: ./s3har.sh [HAR file]
 
 ### Resources
